@@ -55,4 +55,4 @@ POS tags and cooccurence frequency is used to make the algorithm work properly f
 case. For example, if they have a higher coccurence frequency or their POS tags are of
 'adjective noun' or 'noun noun', they are more likely to occur together.
 
-To understand the algorithm in a better manner, please have a look at my code.
+To understand the algorithm in a better manner, please have a look at my code (major part of the code is in ki.java).
