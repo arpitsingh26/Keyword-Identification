@@ -70,53 +70,54 @@ states' does not appear and rather phrases like 'united india' and 'united team'
 will provide united and states as different chunks and not as a single chunk).
 
 Few samples:
-new delhi india
-new delhi ( JJ NN )
+
+new delhi india:
+new delhi ( JJ NN ),
 india ( NN )
 
-appalachicola river in florida
-appalachicola ( NN )
-river ( NN )
+appalachicola river in florida:
+appalachicola ( NN ),
+river ( NN ),
 florida ( NN )
 
-rainwater harvesting
+rainwater harvesting:
 rainwater harvesting ( NN VBG )
 
-bee wax and royal jelly
-bee ( NN )
-wax ( NN )
+bee wax and royal jelly:
+bee ( NN ),
+wax ( NN ),
 royal jelly ( NN RB )
 
-bija yatra
+bija yatra:
 bija yatra ( NN NN )
 
-iron ores of the kallakurchi
-iron ( NN )
-ores ( NNS )
+iron ores of the kallakurchi:
+iron ( NN ),
+ores ( NNS ),
 kallakurchi ( NN )
 
-self reliance in food
-self reliance ( NN NN )
+self reliance in food:
+self reliance ( NN NN ),
 food ( NN )
 
-Gene Campaign
+Gene Campaign:
 gene campaign ( NN NN )
 
-prices of chemical pesticide and fertilizers
-prices ( NNS )
-chemical ( NN )
-pesticide ( NN )
+prices of chemical pesticide and fertilizers:
+prices ( NNS ),
+chemical ( NN ),
+pesticide ( NN ),
 fertilizers ( NNS )
 
-valedictory address by Prasant Mohanty
-valedictory ( NN )
-address ( NN )
+valedictory address by Prasant Mohanty:
+valedictory ( NN ),
+address ( NN ),
 prasant mohanty ( JJ NN )
 
-budget allocation for revival of agriculture
-budget ( NN )
-allocation ( NN )
-revival ( NN )
+budget allocation for revival of agriculture:
+budget ( NN ),
+allocation ( NN ),
+revival ( NN ),
 agriculture ( NN )
 
 The algorithm produces quite good results . But this is a kind of a problem in which there is still a
