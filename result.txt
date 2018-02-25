@@ -1,0 +1,726 @@
+new delhi india
+new delhi ( JJ NN )
+india ( NN )
+
+appalachicola river in florida
+appalachicola ( NN )
+river ( NN )
+florida ( NN )
+
+rainwater harvesting
+rainwater harvesting ( NN VBG )
+
+bee wax and royal jelly
+bee ( NN )
+wax ( NN )
+royal jelly ( NN RB )
+
+bija yatra
+bija yatra ( NN NN )
+
+iron ores of the kallakurchi
+iron ( NN )
+ores ( NNS )
+kallakurchi ( NN )
+
+self reliance in food
+self reliance ( NN NN )
+food ( NN )
+
+Gene Campaign
+gene campaign ( NN NN )
+
+prices of chemical pesticide and fertilizers
+prices ( NNS )
+chemical ( NN )
+pesticide ( NN )
+fertilizers ( NNS )
+
+valedictory address by Prasant Mohanty
+valedictory ( NN )
+address ( NN )
+prasant mohanty ( JJ NN )
+
+budget allocation for revival of agriculture
+budget ( NN )
+allocation ( NN )
+revival ( NN )
+agriculture ( NN )
+
+Green Revolution on food security
+green revolution ( JJ NN )
+food security ( NN NN )
+
+indigenous variety of rice by farmers
+indigenous ( JJ )
+variety ( NN )
+rice ( NN )
+farmers ( NNS )
+
+Mukurunda tribals of Rajasthan
+mukurunda ( NN )
+tribals ( NNS )
+rajasthan ( NN )
+
+manufacture of cortisone and sex hormones
+manufacture ( NN )
+cortisone ( NN )
+sex hormones ( NN NNS )
+
+morphological characteristics of S. xanthocarpum 
+morphological ( JJ )
+characteristics ( NNS )
+s xanthocarpum ( NN NN )
+
+strength of experimental ointment
+strength ( NN )
+experimental ( JJ )
+ointment ( NN )
+
+evaluation of woundhealing activity
+evaluation ( NN )
+woundhealing ( VBG )
+activity ( NN )
+
+granular tissue of the control group of animals
+granular ( JJ )
+tissue ( NN )
+control ( NN )
+group ( NN )
+animals ( NNS )
+
+Methanol extract
+methanol extract ( NN NN )
+---20
+growth of dairy industry in india
+growth ( NN )
+dairy ( NN )
+industry ( NN )
+india ( NN )
+
+murrah buffalo
+murrah buffalo ( NN NN )
+
+livestock fairs in Rajasthan
+livestock ( NN )
+fairs ( NNS )
+rajasthan ( NN )
+
+malpractices observed in marketing of Cattle
+malpractices ( NNS )
+observed ( VBD )
+marketing ( NN )
+cattle ( NNS )
+
+Poor milk yielding cows
+poor ( JJ )
+milk ( NN )
+yielding ( NN )
+cows ( NNS )
+
+Assembling and distribution of animals
+assembling ( VBG )
+distribution ( NN )
+animals ( NNS )
+
+shelter facility for animals
+shelter ( NN )
+facility ( NN )
+animals ( NNS )
+
+check the spread of these contagious diseases
+check ( VB )
+spread ( NN )
+contagious ( JJ )
+diseases ( NNS )
+
+support of ford foundation
+support ( NN )
+ford foundation ( NN NN )
+
+development of livestock sector
+development ( NN )
+livestock ( NN )
+sector ( NN )
+
+MARKETS FOR ORGANIC PRODUCE IN JHARKHAND
+markets ( NNS )
+organic ( JJ )
+produce ( NN )
+jharkhand ( NN )
+
+administrative reforms in livestock fairs
+administrative ( JJ )
+reforms ( NNS )
+livestock fairs ( NN NNS )
+
+science of yoga
+science ( NN )
+yoga ( NN )
+
+Cessation of modification of Chitta
+cessation ( NN )
+modification ( NN )
+chitta ( NN )
+
+Yoga and naturopathy
+yoga ( NN )
+naturopathy ( JJ )
+
+sustainable farming practices
+sustainable ( JJ )
+farming ( NN )
+practices ( NNS )
+
+reliance on animal draught power
+reliance ( NN )
+animal ( NN )
+draught power ( NN NN )
+
+Facilitating land preparation
+facilitating ( VBG )
+land ( NN )
+preparation ( NN )
+
+situation of conservation agriculture in Zambia
+situation ( NN )
+conservation agriculture ( NN NN )
+zambia ( NN )
+
+environmental degradation in zambia
+environmental ( JJ )
+degradation ( NN )
+zambia ( NN )
+---40
+seedling selection from Chakaiya
+seedling selection ( VBG NN )
+chakaiya ( NN )
+
+Barbados Cherry in Kerala
+barbados cherry ( NN NN )
+kerala ( NN )
+
+aromatic rice cultivars
+aromatic rice ( JJ NN )
+cultivars ( NNS )
+
+X-rays diffraction
+x rays ( JJ NNS )
+diffraction ( NN )
+
+Environmentalism as a faith system
+environmentalism ( NN )
+faith ( NN )
+system ( NN )
+
+uniqueness of Sangham
+uniqueness ( NN )
+sangham ( NN )
+
+renaissance of medicinal plants
+renaissance ( NN )
+medicinal ( JJ )
+plants ( NNS )
+
+Dry powder of suran
+dry ( JJ )
+powder ( NN )
+suran ( NN )
+
+genetic and species diversity
+genetic ( JJ )
+species ( NNS )
+diversity ( NN )
+
+decoction of arush with sugar
+decoction ( NN )
+arush ( NN )
+sugar ( NN )
+
+Fenugreek seeds and lukewarm water
+fenugreek seeds ( NN NNS )
+lukewarm water ( JJ NN )
+
+Paste of leaves of neem
+paste ( NN )
+leaves ( NNS )
+neem ( NN )
+
+treatment of normal attack of paralysis
+treatment ( NN )
+normal ( JJ )
+attack ( NN )
+paralysis ( NN )
+
+Cure of moles, blain and blister
+cure ( NN )
+moles ( NNS )
+blain ( VBP )
+blister ( NN )
+
+indigenous practices for healthcare
+indigenous ( JJ )
+practices ( NNS )
+healthcare ( NN )
+
+management of seed bank
+management ( NN )
+seed bank ( NN NN )
+
+Community Rights
+community ( NN )
+rights ( NNS )
+
+Village Council of Devrampalli in Medak
+village ( NN )
+council ( NN )
+devrampalli ( NN )
+medak ( NN )
+
+seeds of tender fruits
+seeds ( NNS )
+tender ( NN )
+fruits ( NNS )
+
+recommended requirement of vegetables
+recommended ( JJ )
+requirement ( NN )
+vegetables ( NNS )
+---60
+agents in pharmaceutical preparations
+agents ( NNS )
+pharmaceutical ( JJ )
+preparations ( NNS )
+
+flavouring plants of Assam
+flavouring ( VBG )
+plants ( NNS )
+assam ( NN )
+
+wild flora in the Deliblato Sand
+wild ( JJ )
+flora ( NNS )
+deliblato sand ( NN NN )
+
+rural populations in Serbia
+rural ( JJ )
+populations ( NNS )
+serbia ( NN )
+
+Botanical diversity of plants
+botanical ( JJ )
+diversity ( NN )
+plants ( NNS )
+
+tuberous species of Kolli Hills
+tuberous ( JJ )
+species ( NNS )
+kolli hills ( NN NNS )
+
+staple food of Western Ghats
+staple ( JJ )
+food ( NN )
+western ( JJ )
+ghats ( NNS )
+
+tribal sects of India
+tribal ( JJ )
+sects ( NNS )
+india ( NN )
+
+Mining Bees
+mining ( NN )
+bees ( NNS )
+
+Toxicity of Pesticides to Bees
+toxicity ( NN )
+pesticides ( NNS )
+bees ( NNS )
+
+bee pollination
+bee pollination ( NN NN )
+
+weeds of kanyakumari
+weeds ( NNS )
+kanyakumari ( NN )
+
+enumeration of medicinally important weeds
+enumeration ( NN )
+medicinally important ( RB JJ )
+weeds ( NNS )
+
+application of poultices
+application ( NN )
+poultices ( NNS )
+
+leaf decoction
+leaf decoction ( NN NN )
+
+WEAVING TECHNIQUE OF DOOR SCREEN
+weaving ( VBG )
+technique ( NN )
+door ( NN )
+screen ( NN )
+---80
+network perspective of entrepreneurship
+network ( NN )
+perspective ( NN )
+entrepreneurship ( NN )
+
+Social networks of master weavers
+social ( JJ )
+networks ( NNS )
+master weavers ( NN NNS )
+
+Hypotheses for structural embeddedness
+hypotheses ( NNS )
+structural embeddedness ( JJ NN )
+
+Government interventions in handloom
+government ( NN )
+interventions ( NNS )
+handloom ( NN )
+
+Human Capital on performance
+human capital ( JJ NN )
+performance ( NN )
+
+the analysis and the findings of Long
+analysis ( NN )
+findings ( NNS )
+long ( JJ )
+
+weaving door screen
+weaving ( VBG )
+door ( NN )
+screen ( NN )
+
+weaving of saree, lungi and napkin
+weaving ( NN )
+saree ( JJ )
+lungi ( NN )
+napkin ( NN )
+
+making of Parda
+making ( NN )
+parda ( NN )
+
+village population of Dhalapathar
+village ( NN )
+population ( NN )
+dhalapathar ( NN )
+
+Wild and Cultivated Species of Cotton
+wild ( JJ )
+cultivated ( JJ )
+species ( NNS )
+cotton ( NN )
+
+Characters of breeding value
+characters ( NNS )
+breeding ( VBG )
+value ( NN )
+
+Advances in Applied Science
+advances ( NNS )
+applied ( JJ )
+science ( NN )
+
+genomic constitution of banana
+genomic ( JJ )
+constitution ( NN )
+banana ( NN )
+
+wheat production in India
+wheat ( NN )
+production ( NN )
+india ( NN )
+
+
+wheat landraces of Oman
+wheat ( NN )
+landraces ( NNS )
+oman ( NN )
+
+livelihood projects in orissa
+livelihood ( NN )
+projects ( NNS )
+orissa ( NN )
+
+Weed management through salt application
+weed ( NN )
+management ( NN )
+salt ( NN )
+application ( NN )
+
+invasion of weeds
+invasion ( NN )
+weeds ( NNS )
+
+traditional practices to use salt
+traditional ( JJ )
+practices ( NNS )
+use ( VB )
+salt ( NN )
+---100
+vetiver system
+vetiver system ( NN NN )
+
+Microbial analysis of manure
+microbial ( JJ )
+analysis ( NN )
+manure ( NN )
+
+application of vermiwash
+application ( NN )
+vermiwash ( NN )
+
+use of panchgavya in cauliflower
+use ( NN )
+panchgavya ( NN )
+cauliflower ( NN )
+
+organic farm at palampur
+organic ( JJ )
+farm ( NN )
+palampur ( NN )
+
+compost tea
+compost tea ( NN NN )
+
+hazards of vegetable dyes
+hazards ( NNS )
+vegetable ( JJ )
+dyes ( NNS )
+
+annual production of dye in Jaipur
+annual ( JJ )
+production ( NN )
+dye ( NN )
+jaipur ( NN )
+
+composition of natural dye
+composition ( NN )
+natural ( JJ )
+dye ( NN )
+
+art of making vegetable dyes
+art ( NN )
+making ( VBG )
+vegetable ( JJ )
+dyes ( NNS )
+
+review of sri
+review ( NN )
+sri ( NN )
+
+Jessour technique in Tunisia
+jessour ( NN )
+technique ( NN )
+tunisia ( NN )
+
+breeding of the Vechur
+breeding ( NN )
+vechur ( NN )
+
+Utilization and Technology of Water in Agriculture
+utilization ( NN )
+technology ( NN )
+water ( NN )
+agriculture ( NN )
+
+Sustainable Agriculture
+sustainable agriculture ( JJ NN )
+
+Application of cow dung
+application ( NN )
+cow ( NN )
+dung ( NN )
+
+water management in farmland
+water ( NN )
+management ( NN )
+farmland ( NN )
+
+rise in groundwater level
+rise ( NN )
+groundwater ( NN )
+level ( NN )
+
+Deterioration of pasture land
+deterioration ( NN )
+pasture ( NN )
+land ( NN )
+
+flood control and utilization of water
+flood control ( NN NN )
+utilization ( NN )
+water ( NN )
+---120
+mangrove forests in Odidha
+mangrove ( NN )
+forests ( NNS )
+odidha ( NN )
+
+pest management in Assam
+pest ( JJS )
+management ( NN )
+assam ( NN )
+
+produtive wetlands
+produtive ( JJ )
+wetlands ( NN )
+
+use of Aegiceras corniculatum
+use ( NN )
+aegiceras ( NNS )
+corniculatum ( NN )
+
+phytomedicinal knowledge of Bhotias of Dharchula
+phytomedicinal ( JJ )
+knowledge ( NN )
+bhotias ( NN )
+dharchula ( NN )
+
+cosmos flowers
+cosmos ( NN )
+flowers ( NNS )
+
+Preparation of yarn for dyeing
+preparation ( NN )
+yarn ( NN )
+dyeing ( VBG )
+
+Evaluation of colour fastness
+evaluation ( NN )
+colour ( NN )
+fastness ( NN )
+
+Traditional Phytotherapy among Karens
+traditional ( JJ )
+phytotherapy ( NN )
+karens ( NNS )
+
+Control of Gundhi bug
+control ( NN )
+gundhi bug ( NN NN )
+
+threat status of endemic grasses
+threat ( NN )
+status ( NN )
+endemic ( JJ )
+grasses ( NNS )
+
+production trend of coarse cereals
+production ( NN )
+trend ( NN )
+coarse cereals ( NN NNS )
+
+MARKETING PROBLEMS OF MICRO ARTISAN ENTERPRISES
+marketing ( NN )
+problems ( NNS )
+micro artisan enterprises ( JJ JJ NNS )
+
+taxonomic studies of Poaceae
+taxonomic ( JJ )
+studies ( NNS )
+poaceae ( NN )
+
+Dimeria, Eulalia and Themeda
+dimeria ( NNS )
+eulalia ( NNS )
+themeda ( NN )
+
+fodder crops
+fodder ( NN )
+crops ( NNS )
+
+Loom Material dealers
+loom ( NN )
+material ( NN )
+dealers ( NNS )
+
+Role of seriFed in silk industry
+role ( NN )
+serifed ( NN )
+silk ( NN )
+industry ( NN )
+
+muga silk
+muga silk ( NN NN )
+
+silk production in Asia
+silk ( NN )
+production ( NN )
+asia ( NN )
+---140
+appropriate cholesterol levels in heart
+appropriate ( JJ )
+cholesterol ( NN )
+levels ( NNS )
+heart ( NN )
+
+properties of pomegranate seeds
+properties ( NNS )
+pomegranate ( NN )
+seeds ( NNS )
+
+fibre extraction of Sunnhemp
+fibre extraction ( JJ NN )
+sunnhemp ( NN )
+
+phytosociological analysis of a plant
+phytosociological ( JJ )
+analysis ( NN )
+plant ( NN )
+
+Natural remedies for heart diseases
+natural ( JJ )
+remedies ( NNS )
+heart ( NN )
+diseases ( NNS )
+
+Packaging and marketing of kokum products
+packaging ( NN )
+marketing ( NN )
+kokum ( NN )
+products ( NNS )
+
+Cultivation of cabbage
+cultivation ( NN )
+cabbage ( NN )
+
+lignans in millets
+lignans ( NNS )
+millets ( NNS )
+
+DISASTER MANAGEMENT OF LEPCHA COMMUNITY
+disaster ( NN )
+management ( NN )
+lepcha ( NN )
+community ( NN )
+
+effect of zhuming
+effect ( NN )
+zhuming ( VBG )
+--150
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

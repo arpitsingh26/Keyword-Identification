@@ -1,0 +1,19 @@
+--Istallation and other things
+1. Get the corpus from your team. One can also download other corpuses from various sources like wikipedia, etc. 
+2. Install java, c++ and python (also nltk and nltk data) on linux (preferably because I did this work on linux).
+
+--Preprocessing of data
+3. Merge all the documents of the corpus using mergefiles.sh (for doc files) or merge-files2.sh (for text files). Run 'chmod +x scriptname' followed by './merge-files.sh' or './merge-files2.sh > output_filename' depending on whether the data is doc or text type.
+4. Clean the obtained data using cleancorpus.pl. Run 'perl cleancorpus.pl input_filename > output_filename'.
+5. If there are any issues occurring due to the large size of the corpus (for example, it may happen that the perl script may not work on the large input file), then divide the corpus into multiple corpuses and add their entries in the code of 'ki.java' file (but try to keep the corpuses as large as possible and of different topics as possible).
+
+--Training the data
+6. Move the obtained data to word2vec folder (please note that 'proj1' folder and 'wor2vec' folder are kept at the same level inside some parent directory).
+7. To train the data using word2vec library, run 'chmod +x demo-phrases-*.sh' followed by'./demo-phrases-*.sh' to train the corresponding data file (for eg., demo-phrases-general.sh is used to train the data given in file text8(text8 is a standard data available at the site(https://code.google.com/p/word2vec/) of word2vec library)).
+
+--Testing data
+8. To run the code, run 'javac ki.java' followed by 'java ki > output_file.txt' (ki.java is the file in which the main code is written). In this, put the input search queries inside the file 'input_file.txt'. Also, one can change how many and which corpus to use from inside the corpus. There are other parameters too inside the code which one can change to get good results, however, to know which ones to change and how much to change them so that they give good results, one needs to understand the code properly.
+
+9.Just for your information, distance-pairs.c is the file which is run to get the semantic relation and cooccurence frequency between the two phrases. In our code, it is called from inside ki.java file (Also, category_allotment folder contains code for allotting categories is written by Shraddha Bhattad .. so please contact her for any queries related to that).
+
+Thank you.
