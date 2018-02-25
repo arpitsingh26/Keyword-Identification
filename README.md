@@ -56,3 +56,69 @@ case. For example, if they have a higher coccurence frequency or their POS tags 
 'adjective noun' or 'noun noun', they are more likely to occur together.
 
 To understand the algorithm in a better manner, please have a look at my code (major part of the code is in ki.java).
+
+# Results:
+
+In this, there are two things that should be kept in mind.
+1. Evaluating the text segmentation is slightly dependent on how a person thinks they should be
+segmented (for example, 'natural resources in india' should be chunked as 'natural resources' and
+'india' by some person but another may argue that it should be chunked as 'natural', 'resources' and
+'india' because the word 'natural' can be asociated witha lot of other things other than the word
+'resources').
+2. The results are heavily dependent on the data (for example, if we take a data in which 'united
+states' does not appear and rather phrases like 'united india' and 'united team' occur much, then this
+will provide united and states as different chunks and not as a single chunk).
+
+Few samples:
+new delhi india
+new delhi ( JJ NN )
+india ( NN )
+
+appalachicola river in florida
+appalachicola ( NN )
+river ( NN )
+florida ( NN )
+
+rainwater harvesting
+rainwater harvesting ( NN VBG )
+
+bee wax and royal jelly
+bee ( NN )
+wax ( NN )
+royal jelly ( NN RB )
+
+bija yatra
+bija yatra ( NN NN )
+
+iron ores of the kallakurchi
+iron ( NN )
+ores ( NNS )
+kallakurchi ( NN )
+
+self reliance in food
+self reliance ( NN NN )
+food ( NN )
+
+Gene Campaign
+gene campaign ( NN NN )
+
+prices of chemical pesticide and fertilizers
+prices ( NNS )
+chemical ( NN )
+pesticide ( NN )
+fertilizers ( NNS )
+
+valedictory address by Prasant Mohanty
+valedictory ( NN )
+address ( NN )
+prasant mohanty ( JJ NN )
+
+budget allocation for revival of agriculture
+budget ( NN )
+allocation ( NN )
+revival ( NN )
+agriculture ( NN )
+
+The algorithm produces quite good results . But this is a kind of a problem in which there is still a
+huge potential to improve the results which can be done by taking more data and/or taking user
+feedback and/or identifying and considering more factors and their combinations.
