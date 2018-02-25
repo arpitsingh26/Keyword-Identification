@@ -71,54 +71,48 @@ will provide united and states as different chunks and not as a single chunk).
 
 Few samples:
 
-new delhi india:
+1. new delhi india:
 new delhi ( JJ NN ),
 india ( NN )
 
-appalachicola river in florida:
+2. appalachicola river in florida:
 appalachicola ( NN ),
 river ( NN ),
 florida ( NN )
 
-rainwater harvesting:
+3. rainwater harvesting:
 rainwater harvesting ( NN VBG )
 
-bee wax and royal jelly:
+4. bee wax and royal jelly:
 bee ( NN ),
 wax ( NN ),
 royal jelly ( NN RB )
 
-bija yatra:
+5. bija yatra:
 bija yatra ( NN NN )
 
-iron ores of the kallakurchi:
+6. iron ores of the kallakurchi:
 iron ( NN ),
 ores ( NNS ),
 kallakurchi ( NN )
 
-self reliance in food:
+7. self reliance in food:
 self reliance ( NN NN ),
 food ( NN )
 
-Gene Campaign:
+8. Gene Campaign:
 gene campaign ( NN NN )
 
-prices of chemical pesticide and fertilizers:
+9. prices of chemical pesticide and fertilizers:
 prices ( NNS ),
 chemical ( NN ),
 pesticide ( NN ),
 fertilizers ( NNS )
 
-valedictory address by Prasant Mohanty:
+10. valedictory address by Prasant Mohanty:
 valedictory ( NN ),
 address ( NN ),
 prasant mohanty ( JJ NN )
-
-budget allocation for revival of agriculture:
-budget ( NN ),
-allocation ( NN ),
-revival ( NN ),
-agriculture ( NN )
 
 The algorithm produces quite good results . But this is a kind of a problem in which there is still a
 huge potential to improve the results which can be done by taking more data and/or taking user
